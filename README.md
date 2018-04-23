@@ -22,3 +22,4 @@ This R package makes it easy to integrate and control Leaflet maps in R.
 9) Augment map features using chosen plugins from leaflet plugins repository
 
 Here, in Workplace Tracker using Leaflet RMD file, i have used this leaflet package to track my workplace in my life cycle till date..
+You can also find city.list.json Zip folder, which you need to unzip and save in current working directory.
